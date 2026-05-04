@@ -1,71 +1,61 @@
 <div align="center">
 
-# ⚖️ 𝖢𝖸𝖡𝖤𝖱 𝖩𝖴𝖲𝖳𝖨𝖢𝖤 𝖮𝖱𝖦𝖠𝖭𝖨𝖲𝖠𝖳𝖨𝖮𝖭 (𝖢𝖩) ⚖️
-### ──── 𝖲𝖴𝖯𝖱𝖤𝖬𝖤 𝖣𝖨𝖦𝖨𝖳𝖠𝖫 𝖦𝖮𝖵𝖤𝖱𝖭𝖠𝖭𝖢𝖤 ────
+# ⚖️ 𝖢𝖩 𝖥𝖮𝖴𝖭𝖣𝖤𝖱𝖲 | 𝖳𝖧𝖤 𝖢𝖮𝖱𝖤 ⚖️
+### ──── 𝖩𝖮𝖨𝖭𝖳 𝖤𝖷𝖤𝖢𝖴𝖳𝖨𝖵𝖤 𝖢𝖮𝖬𝖬𝖠𝖭𝖣 ────
 
-「 𝖨𝖭 𝖢𝖮𝖣𝖤 𝖶𝖤 𝖳𝖱𝖴𝖲𝖳 . 𝖨𝖭 𝖩𝖴𝖲𝖳𝖨𝖢𝖤 𝖶𝖤 𝖲𝖤𝖱𝖵𝖤 」
+「 𝖣𝖤𝖲𝖨𝖦𝖭𝖤𝖣 𝖡𝖸 𝖣𝖠𝖭𝖭𝖤𝖪𝖹 . 𝖤𝖭𝖥𝖮𝖱𝖢𝖤𝖣 𝖡𝖸 𝖧𝖠𝖷 」
 
 ---
 
-[![Official Discord](https://img.shields.io/badge/COMMUNICATIONS-DISCORD%20SERVER-7289da?style=for-the-badge&logo=discord)](https://discord.com/invite/JfcBQwn2mq)
-[![Location](https://img.shields.io/badge/OPERATIONS-SWEDEN%20%F0%9F%87%B8%F0%9F%87%AA-blue?style=for-the-badge)](#)
-[![Status](https://img.shields.io/badge/STATUS-DEVELOPMENT%20PHASE-orange?style=for-the-badge)](#)
+[![Official Website](https://img.shields.io/badge/PORTFOLIO-VERCEL-black?style=for-the-badge&logo=vercel)](https://cyberjustice.vercel.app/)
+[![HQ Discord](https://img.shields.io/badge/COMMAND-DISCORD-7289da?style=for-the-badge&logo=discord)](https://discord.com/invite/JfcBQwn2mq)
+[![Secure Email](https://img.shields.io/badge/CONTACT-PROTON-6d4aff?style=for-the-badge&logo=protonmail)](mailto:cyberjustice.se@proton.me)
 
 </div>
 
-## 🛡️ INSTITUTIONAL PROCLAMATION
-**Cyber Justice (CJ)** is a professional entity based in Sweden, established to enforce integrity within the digital software landscape. We operate as a sovereign technical collective dedicated to security auditing, high-level research, and community protection. Our primary objective is to eliminate "skidding" culture and malicious actors through rigorous transparency and elite software standards.
+## 🛡️ JOINT PROCLAMATION
+This is the official joint headquarters of **Dannekz** (Founder) and **Hax** (Technical Overseer). From this core, we direct the **Cyber Justice Organization (CJ)** operations. Our partnership combines strategic governance with elite technical execution to maintain digital order and software integrity.
 
 ---
 
-## █║▌│█│║▌║││█ THE OFFICIAL STATUTES █║▌│█│║▌║││█
+## █║▌│█│║▌║││█ THE DUAL MANDATE █║▌│█│║▌║││█
 
-### 🏛️ PART I: GOVERNANCE & SOVEREIGN AUTHORITY
-*   **Supreme Mandate:** The Founder (@Dannekz) holds absolute veto power over all organizational movements and strategic decisions.
-*   **Chain of Command:** All members must adhere to the established hierarchy: Founder > Technical Overseer (@Pagoni-Hax) > Members.
-*   **Institutional Identity:** The "CJ" name and assets are protected; unauthorized representation is strictly prohibited.
-*   **Conflict Resolution:** All internal disputes are handled through private arbitration to maintain organizational stability.
+### 🏛️ DIRECTORATE & CONTROL
+*   **Executive Leadership (@Dannekz):** Supreme decision-making, legal roadmap, and institutional strategy.
+*   **Technical Sovereignty (@Pagoni-Hax):** Lead development, security auditing, and systemic enforcement.
+*   **Unified Vision:** Together, we manage the CJ Global Blacklist and the 2026 Swedish formalization project.
 
-### 🔒 PART II: OPERATIONAL SECURITY (OPSEC)
-*   **Strict Confidentiality:** Internal data is classified. Unauthorized leaks result in immediate expulsion under Tier-1 violations.
-*   **Account Fortification:** Mandatory 2FA and encrypted communication channels are required for all personnel.
-*   **Zero-Dox Policy:** Sharing real-life data of any member is a terminal offense.
-*   **Silent Mode Protocol:** Emergency procedures are activated during any security breach to secure internal assets.
+### 🔒 ELITE OPSEC PROTOCOLS
+*   **Shared Responsibility:** This account operates under strict multi-layered 2FA and encrypted access points.
+*   **Collective Confidentiality:** Every line of code and piece of data is protected by the CJ Codex.
 
 ---
 
-## 🎯 STRATEGIC MISSION & OPERATIONS
-*   **Security Auditing:** Conducting deep-trace vulnerability assessments on community-driven software.
-*   **Educational Support:** Mentoring new developers to build ethical, sustainable, and optimized code (The Pagoni Doctrine).
-*   **The Blacklist:** Maintaining a centralized registry of malicious entities, verified loggers, and threat actors to protect the digital ecosystem.
+## 🎯 MISSION OBJECTIVES
+*   **Strategic Auditing:** Deploying high-level assessments on community-driven code.
+*   **The Pagoni Doctrine:** Directing the elite mentorship program for next-gen developers.
+*   **Digital Justice:** Eliminating malicious entities through verified intelligence and technical superiority.
 
 ---
 
-## 🛠️ TECHNICAL EXCELLENCE STANDARDS
-*   **Quality Assurance:** No code is pushed to 'Main' without passing the official automated test suite and internal vulnerability audits.
-*   **Innovation Policy:** We prioritize original development and deep-level understanding over third-party dependencies.
-*   **Documentation:** All software functions must be documented in English for global transparency and accessibility.
+## 🛠️ CURRENT INFRASTRUCTURE
+*   **Core Systems:** Building the framework for the 2026 Non-Profit Ascension.
+*   **Threat Registry:** Expanding the Global Blacklist database.
 
 ---
 
-## 📅 ROADMAP: THE 2026 ASCENSION
-*   **Phase I (Current):** Development of the CJ-Blacklist and internal security infrastructure.
-*   **Phase II (Summer 2026):** Formalizing the legal non-profit structure within the Swedish regulatory framework 🇸🇪.
+## 📡 COMMAND ACCESS
+For high-level inquiries, strategic partnerships, or arbitration directly with the Founders:
 
----
-
-## 📡 EMERGENCY COMMUNICATIONS
-Connect to our centralized Command & Control hub for official inquiries, verified audits, or reporting malicious breaches:
-
-👉 [**ACCESS THE OFFICIAL CJ DISCORD SERVER**](https://discord.com/invite/JfcBQwn2mq)
+🌍 [**Web HQ**](https://cyberjustice.vercel.app/) | 📧 [**Secure Mail**](mailto:cyberjustice.se@proton.me) | 💬 [**Discord Command**](https://discord.com/invite/JfcBQwn2mq)
 
 ---
 
 <div align="center">
 
-**FOUNDER:** @Dannekz | **TECHNICAL OVERSEER:** @Pagoni-Hax
+**COMMAND:** @Dannekz & @Pagoni-Hax
 
-`DOCUMENT VERSION: 1.2.0 | UPDATED MAY 2026`  
+`JOINT ACCESS AUTHORIZED`  
 `IN CODE WE TRUST. IN JUSTICE WE SERVE.`
 
 </div>
